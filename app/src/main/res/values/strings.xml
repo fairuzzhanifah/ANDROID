@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EduVent</string>
+    <string name="welcome">Welcome \nBack</string>
+    <string name="register">Create an \nAccount</string>
+    <string name="bip">Sefani Cahyo \nF1D021018</string>
+    <string name="competition_scholarship_information"><![CDATA[Competition & Scholarship Information]]></string>
+    <string name="logout">Logout</string>
+</resources>
